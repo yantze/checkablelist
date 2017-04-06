@@ -3,6 +3,7 @@
 - 原生 ListView， 可重用 ItemView
 - 简单的示例
 - 够用就好
+- 权当示例
 
 ## 出现 ListView 混乱的原因
 - Android 应用，有应用内部进程和渲染进程
